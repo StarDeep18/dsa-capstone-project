@@ -38,8 +38,6 @@ Welcome to the CodeConnect! This project serves as a comprehensive platform to t
    npm run dev
    ```
 
-   The application will be accessible at `http://localhost:3000`.
-
 ## 📂 Project Structure
 
 * `src/`: Contains all source code files.
